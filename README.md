@@ -32,8 +32,7 @@
 </div>
 
 ###
-<h1 align="center">Hi 👋, I'm Muhammad Arya Dzaky Arenanto</h1>
-<h3 align="center">Programmer Learner from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Arya Dzaky</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
