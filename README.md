@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/webDr4d75kEAAAAC/shikanoin-heizou-heizou.gif"  />
+  <img height="200" src="https://media.tenor.com/BC_yT3VJEbAAAAAi/tartaglia-genshin-impact.gif"  />
+  <img height="200" src="https://media.tenor.com/seveRLpbw_kAAAAi/genshin-impact-emote.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/XoyUN160JOcAAAAd/tartaglia-childe-genshin-impact.gif"  />
 </div>
 
 ###
