@@ -1,9 +1,22 @@
 ### Hi there 👋
 
+
+<!--
 <div align="center">
   <img height="200" src="https://media.tenor.com/BC_yT3VJEbAAAAAi/tartaglia-genshin-impact.gif"  />
   <img height="200" src="https://media.tenor.com/seveRLpbw_kAAAAi/genshin-impact-emote.gif"  />
   <img height="200" src="https://media.tenor.com/mLWFHZ6vImIAAAAi/tartaglia-genshin-impact.gif"  />
+</div>
+-->
+
+<div align="center">
+  <img height="200"  src="https://media.tenor.com/eSKva94B2CYAAAAj/scaramouche-genshin.gif"  />
+</div>
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/5mXQhlup1xkAAAAi/wanderer-genshin-wanderer.gif"  />
+  <img height="200" src="https://media.tenor.com/vcm8chrFrXEAAAAi/wanderer-genshin-wanderer.gif"  />
+  <img height="200" src="https://media.tenor.com/IGAyXnQlqHsAAAAi/scaramouche-genshin.gif"  />
 </div>
 
 ###
