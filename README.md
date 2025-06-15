@@ -19,6 +19,14 @@
   <img height="200" src="https://media.tenor.com/IGAyXnQlqHsAAAAi/scaramouche-genshin.gif"  />
 </div>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=4000&color=00FFC8&lines=🎧+Now+Playing...;What+is+Arya+listening+to+right+now%3F" />
+</h2>
+
+<div align="center">
+  <img src="https://now-play.vercel.app/api/generate?uid=d7db6b1a-c866-430d-872f-f6236a927ad2&theme=dark&borderRadius=12px&barColor=00ffc8&wave=true" />
+</div>
+
 ###
 
 <div align="center">
